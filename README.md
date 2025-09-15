@@ -1,1 +1,32 @@
-# Zand.basijj
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+<style>
+  {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body, html {
+
+  width: 100%;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+  background: #000;
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+</style>
+</head>
+<body>
+  <img src="فعالیت های بسیج دانشجویی دانشگاه زند-5.jpg" alt="بسیج دانش آموزی زند">
+</body>
+</html>
